@@ -12,6 +12,7 @@ The reason I felt like I needed to adapt this layout were
 2. As a programmer, I use the symbols much more than the numbers. So I have defaulted to using the symbols if you hit the number keys. Holding the shift key will get you the numbers.
 
 ## Installation
+[link to instructions](http://www.languagegeek.com/keyboard_general/mac_installation1.html)
 1. Pick the layout you want. (Programmer or normal)
 2. Run
 ~~~ shell
