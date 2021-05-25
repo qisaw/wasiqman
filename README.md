@@ -16,7 +16,7 @@ The reason I felt like I needed to adapt this layout were
 1. Pick the layout you want. (Programmer or normal)
 2. Run
 ~~~ shell
-cp /path/to/wasiqman/wasiqman.bundle /Library/Keyboard Layouts/
+sudo cp -r /path/to/wasiqman/wasiqman.bundle /Library/Keyboard\ Layouts/
 ~~~
 3. Open "System Preferences" > "Language And Region" > "Keyboard Preferences"
 4. Click "Input Sources" at the top
