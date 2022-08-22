@@ -14,8 +14,10 @@ The reason I felt like I needed to adapt this layout were
 ## Installation
 [link to instructions](http://www.languagegeek.com/keyboard_general/mac_installation1.html)
 1. Pick the layout you want. (Programmer or normal)
-2. Run
+2. Run the following commands [You have to be a super user](https://superuser.com/questions/99172/how-to-stop-os-x-from-switching-input-method-keyboard-layout-automatically)
+
 ~~~ shell
+sudo su -
 sudo cp -r /path/to/wasiqman/wasiqman.bundle /Library/Keyboard\ Layouts/
 ~~~
 3. Open "System Preferences" > "Language And Region" > "Keyboard Preferences"
